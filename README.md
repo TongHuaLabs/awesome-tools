@@ -11,6 +11,7 @@
 - [Postman](https://www.postman.com/): API Testing
 - Brave + Chrome + Firefox + Safari
 - [Sip](https://sipapp.io): Color Picker
+- [MAMP](https://www.mamp.info/): Apache, Nginx, PHP & MySQL
 
 ### Efficiency
 - [Yoink](https://eternalstorms.at/yoink/mac/): Simplify and Improve Drag and Drop 
