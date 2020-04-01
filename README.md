@@ -12,6 +12,7 @@
 - Brave + Chrome + Firefox + Safari
 - [Sip](https://sipapp.io): Color Picker
 - [MAMP](https://www.mamp.info/): Apache, Nginx, PHP & MySQL
+- [ngrok](https://ngrok.com/): secure introspectable tunnels to localhost
 
 ### Efficiency
 - [Yoink](https://eternalstorms.at/yoink/mac/): Simplify and Improve Drag and Drop 
