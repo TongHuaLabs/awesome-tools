@@ -20,3 +20,4 @@
 ## VS Code Plugins
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode): Code formatter
 - [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint): Code linting
+- [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis): Automatically generates detailed JSDoc comments in TypeScript and JavaScript files
